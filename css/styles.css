@@ -2,6 +2,8 @@ body {
     background-color: #eee;
 }
 
+/* section for extra-small screens begins */
+
 .container {
     background-color: #eee;
     width: 95%;
@@ -18,6 +20,12 @@ body {
     background-color: #bebebe;
 }
 
+.header-image img {
+    background: transparent;
+    border-radius: 50%;
+    height: 60%;
+}
+
 .block {
     background-color: #bebebe;
     width: 100%;
@@ -28,3 +36,5 @@ body {
 h1 {
     color: red;
 }
+
+/* section for extra-small screens ends */

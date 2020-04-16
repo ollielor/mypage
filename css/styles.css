@@ -10,9 +10,12 @@ body {
 
 .header {
     background-color: #bebebe;
-    width: 100%;
     margin: 0 0 20px 0;
     padding: 20px;
+}
+
+.header-image {
+    background-color: #bebebe;
 }
 
 .block {

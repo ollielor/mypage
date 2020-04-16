@@ -2,6 +2,15 @@ body {
     background-color: #eee;
 }
 
+/* section for span styles begins */
+
+.accent {
+    color: #cc001a;
+    font-weight: bold;
+}
+
+/* section for span styles ends */
+
 /* section for extra-small screens begins */
 
 .container {
@@ -10,17 +19,19 @@ body {
     margin: 15px auto 15px auto;
 }
 
-.header {
-    background-color: #bebebe;
-    margin: 0 0 20px 0;
+.header-light {
+    background-color: #c8c8c8;
+    margin: 0 0 10px 0;
     padding: 20px;
 }
 
-.header-image {
+.header-dark {
     background-color: #bebebe;
+    margin: 0 0 10px 0;
+    padding: 20px;
 }
 
-.header-image img {
+.header-light img, .header-dark img {
     background: transparent;
     border-radius: 50%;
 }

@@ -93,7 +93,7 @@ p {
 
 .header-light {
     background-color: #c8c8c8;
-    margin: 0 0 3px 0;
+    margin: 0 0 0 0;
     padding: 20px;
 }
 
@@ -105,7 +105,7 @@ p {
 .block {
     background-color: #bebebe;
     width: 100%;
-    margin: 0 0 3px 0;
+    margin: 3px 0 0 0;
     padding: 20px;
 }
 
